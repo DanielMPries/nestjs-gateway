@@ -16,6 +16,7 @@ Rate limiting has been added to prevent brute force attacks on the gateway
 [ ]: Model validation
 [ ]: Health checks
 [X]: Proxy
+[ ]: Jwt auth - https://github.com/dashsaurabh/nestjs-authentication-demo/tree/jwt-authentication/src/users
 ```
 
 ### Middleware order
